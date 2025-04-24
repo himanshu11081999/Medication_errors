@@ -28,10 +28,6 @@ Visual Analytics:
 
 Bar plots of error categories
 
-Drug-wise error heatmaps
-
-Monthly trends
-
 Six Sigma score 
 
 # Outputs
