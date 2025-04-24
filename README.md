@@ -16,14 +16,6 @@ Error Rate per Million
 
 Six Sigma Level
 
-Side-by-Side Analysis:
-
-Per patient
-
-Per drug
-
-Across error categories
-
 Visual Analytics:
 
 Bar plots of error categories
@@ -44,12 +36,6 @@ Error per Opportunity
 Error per Million Opportunities
 
 Approximate Six Sigma
-
-Dynamic Visualizations:
-
-Line charts and bar plots
-
-Comparison by department, time period, or category
 
 # Sample Outputs
 ![image](https://github.com/user-attachments/assets/1d2b5898-a6f1-4a7b-8205-3241ff35c2fc)
